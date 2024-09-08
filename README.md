@@ -4,4 +4,4 @@
 
 .
 
-## Main ideas 
+> ## Main ideas to deal with Alteryx

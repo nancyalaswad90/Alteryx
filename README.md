@@ -4,6 +4,8 @@
 
 .
 
+
 > ## [Main ideas to deal with Alteryx](https://docs.google.com/document/d/1EUdmw4lh5CM5eeQLmzY-PbtSpTARDKeTmI11NmwyGnM/edit)
 
 .
+- Load data in Alteryx 
